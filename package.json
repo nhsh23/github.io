@@ -1,0 +1,25 @@
+{
+  "name": "birthday",
+  "version": "1.0.0",
+  "description": "Birthday greetings..",
+  "main": " ",
+  "scripts": {
+    "server-node": "http-server -p 8081"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+http://github.com/nhsh23/birthday/.git"
+  },
+  "keywords": [
+    "Birthday"
+  ],
+  "author": "Neha Sharma",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "http:/github.com/nhsh23/issues"
+  },
+  "homepage": "http::/github.com/nhsh23birthday/#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
